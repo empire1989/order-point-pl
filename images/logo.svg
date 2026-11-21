@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#14163d"/>
+  <!-- candles -->
+  <line x1="110" y1="170" x2="110" y2="360" stroke="#2ecc71" stroke-width="6"/>
+  <rect x="92" y="220" width="36" height="80" rx="4" fill="#2ecc71"/>
+  <line x1="180" y1="200" x2="180" y2="370" stroke="#e74c3c" stroke-width="6"/>
+  <rect x="162" y="250" width="36" height="90" rx="4" fill="#e74c3c"/>
+  <line x1="250" y1="150" x2="250" y2="330" stroke="#2ecc71" stroke-width="6"/>
+  <rect x="232" y="180" width="36" height="110" rx="4" fill="#2ecc71"/>
+  <!-- order point with a live P/L badge -->
+  <line x1="60" y1="290" x2="452" y2="290" stroke="#f5c451" stroke-width="5" stroke-dasharray="14 12"/>
+  <circle cx="390" cy="290" r="30" fill="#f5c451"/>
+  <circle cx="390" cy="290" r="12" fill="#14163d"/>
+  <rect x="330" y="110" width="130" height="64" rx="32" fill="#2ecc71"/>
+  <text x="395" y="151" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#14163d" text-anchor="middle">+P/L</text>
+</svg>
