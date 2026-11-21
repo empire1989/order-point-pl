@@ -1,6 +1,6 @@
 # Order Point P/L
 
-![Order Point P/L logo](images/logo.svg)
+<img src="images/logo.svg" alt="Order Point P/L logo" width="120">
 
 A lightweight MetaTrader 5 chart indicator. It shows the live result of every open position directly on the chart, along with a compact account panel and a candle close countdown.
 
