@@ -5,6 +5,10 @@ A lightweight MetaTrader 5 chart indicator. It shows the live result of every op
 ## Files
 - `Profits.ex5`: compiled indicator for MetaTrader 5 (no source code in this repo)
 
+## Screenshot
+
+![Order Point P/L on chart](images/screenshot.png)
+
 ## Installation
 1. Copy `Profits.ex5` to `MQL5/Indicators` in your MetaTrader 5 data folder.
 2. Restart MetaTrader 5 or refresh the Navigator.
